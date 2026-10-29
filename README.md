@@ -121,43 +121,13 @@ Diskon 10% = Rp49.500
 
 ### 10. Screenshot Hasil Program
 
-Tambahkan screenshot asli hasil eksekusi program pada bagian ini.
+![screenshoot1.jpeg](screenshoot1.jpeg)
 
-Screenshot yang disarankan:
-- Tampilan menu utama.
-- Tampilan daftar peralatan.
-- Tampilan penyewaan beberapa jenis barang.
-- Tampilan struk pembayaran.
-- Tampilan riwayat transaksi.
+![screenshoot2.jpeg](screenshoot2.jpeg)
 
-Contoh susunan file screenshot:
+![screenshoot3.jpeg](screenshoot3.jpeg)
 
-- `screenshot/menu-utama.png`
-- `screenshot/daftar-peralatan.png`
-- `screenshot/penyewaan.png`
-- `screenshot/struk.png`
-- `screenshot/riwayat.png`
-
-### 11. Struktur Repository
-
-```text
-Adventure-Camp/
-├── main.c
-├── README.md
-└── screenshot/
-    ├── menu-utama.png
-    ├── daftar-peralatan.png
-    ├── penyewaan.png
-    ├── struk.png
-    └── riwayat.png
-```
-
-### 12. Kesimpulan
-
-Program Adventure Camp merupakan aplikasi penyewaan peralatan camping sederhana yang dibuat menggunakan bahasa C. Program ini dapat menampilkan daftar peralatan, menerima penyewaan beberapa jenis barang dalam satu transaksi, menghitung biaya dan diskon secara otomatis, menampilkan struk, serta menyimpan riwayat transaksi selama program berjalan.
-
-Pembuatan program ini membantu mahasiswa memahami penerapan konsep pemrograman terstruktur, fungsi, array, percabangan, perulangan, dan validasi input.
-
+![screenshoot4.jpeg](screenshoot4.jpeg)
 ---
 
 **Program Studi Pendidikan Teknologi Informasi**  
