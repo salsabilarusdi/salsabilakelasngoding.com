@@ -121,15 +121,16 @@ Diskon 10% = Rp49.500
 
 ### 10. Screenshot Hasil Program
 
-![screenshoot1.jpeg](screenshoot1.jpeg)
+![screnshoot1.jpeg](screnshoot1.jpeg)
 
-![screenshoot2.jpeg](screenshoot2.jpeg)
+![screnshoot2.jpeg](screnshoot2.jpeg)
 
-![screenshoot3.jpeg](screenshoot3.jpeg)
+![screnshoot3.jpeg](screnshoot3.jpeg)
 
-![screenshoot4.jpeg](screenshoot4.jpeg)
+![screnshoot4.jpeg](screnshoot4.jpeg)
 ---
 
-**Program Studi Pendidikan Teknologi Informasi**  
+**Program Studi Pendidikan Teknologi Informasi** 
+**Fakltas Keguruan dan Ilmu Pendidikan**
 **Universitas Muhammadiyah Tasikmalaya**  
 **2026**
